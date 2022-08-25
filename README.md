@@ -7,6 +7,6 @@ I made this with MERN stack to explore this whole universe 🪐
 
 Besides, i'm currently learning 3D with Blender to increment my UI design ! 🧊
 
-Socials
+Socials 👇
 
 [Behance](https://www.behance.net/hugocrespin) | [Dribbble](https://dribbble.com/HugeCrspn)
