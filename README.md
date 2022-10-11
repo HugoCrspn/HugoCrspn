@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-👨‍💻 I'm a french designer since 2019 and I love to craft many things. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> I'm a french designer since 2019 and I love to craft many things. 
 
 I'm currently working on management webapp in order to manage differents collections (movies, games, books...). I make this with MERN stack to explore this whole universe 🪐💾
 
