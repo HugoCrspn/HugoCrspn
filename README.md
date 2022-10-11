@@ -6,7 +6,7 @@ I'm currently working on management webapp in order to manage differents collect
 
 Besides, i'm currently learning 3D with Blender to increment my UI design ! 🧊
 
-** Tools i use **
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="15" height="15" /> **Tools i use**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
