@@ -2,7 +2,7 @@
 
 🧑‍💻 I'm a french designer since 2019 and I love to craft many things. 
 
-I'm currently working on quizz webapp in order to practice knowledges about web development. I make this with MERN stack to explore this whole universe 🪐💾
+I'm currently learning THREE.JS 🪐💾
 
 Besides, i'm currently learning 3D with Blender to increment my UI design ! 🧊
 
